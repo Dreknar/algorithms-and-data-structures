@@ -1,2 +1,6 @@
 # PyCharm tools
 venv
+.idea
+
+# MacOS
+.DS_Store
